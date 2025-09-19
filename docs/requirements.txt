@@ -1,6 +1,6 @@
-breathe==4.35.0
-docutils==0.21.2
-Pygments==2.18.0
-pyparsing==3.1.2
-Sphinx==7.3.7
-sphinxcontrib-bibtex==2.6.2
+breathe==4.36.0
+docutils==0.22
+Pygments==2.19.2
+pyparsing==3.2.3
+Sphinx==8.2.3
+sphinxcontrib-bibtex==2.6.5
